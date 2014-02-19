@@ -2,7 +2,7 @@
 
 This library makes styling and using dialogs _a piece of cake_.
 
- ![Screenshot of the dialogs](graphics/screenshot-small.png)
+ ![Screenshotof the dialogs](graphics/screenshot-small.png)
 
 Features:
 
